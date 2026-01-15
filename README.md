@@ -72,7 +72,7 @@ The dashboard supports leadership decision-making by providing visibility into r
 ---
 
 ## Author
-**Riyalytics**  
+**Riya Rastogi**  
 GitHub: https://github.com/riyalytics
 
 ---
