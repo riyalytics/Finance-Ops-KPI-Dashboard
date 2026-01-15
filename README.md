@@ -70,13 +70,6 @@ The dashboard supports leadership decision-making by providing visibility into r
 - `README.md` → Project documentation
 
 ---
-
-## Author
-**Riya Rastogi**  
-GitHub: https://github.com/riyalytics
-
----
-
 ## How to Use
 1. Download the `.pbix` file
 2. Open in **Power BI Desktop**
@@ -89,3 +82,9 @@ This project is built as a **portfolio demonstration** and reflects best practic
 - BI storytelling
 - Executive dashboard design
 - KPI-driven analytics
+
+---
+
+## Author
+**Riya Rastogi**  
+GitHub: https://github.com/riyalytics
