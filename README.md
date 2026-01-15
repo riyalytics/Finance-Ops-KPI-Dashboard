@@ -1,4 +1,4 @@
-# Finance & Operations KPI Intelligence Dashboard (FY 2023)
+# Finance & Operations KPI Dashboard (FY 2023)
 
 ![Dashboard Preview](screenshots/dashboard_full.png)
 
